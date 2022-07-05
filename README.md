@@ -1,1 +1,4 @@
-COVID-19 Data Analysis
+SQL PROJECT
+
+Analysing the data of countries affected by covid-19.
+
